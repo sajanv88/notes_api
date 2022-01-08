@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "x-deno-warning": "Implicitly using latest version (0.119.0) for https://deno.land/std/log/mod.ts",
+    "location": "/std@0.119.0/log/mod.ts",
+    "content-length": "0",
+    "date": "Fri, 31 Dec 2021 19:54:12 GMT",
+    "server": "deploy/europe-west4-b"
+  },
+  "url": "https://deno.land/std/log/mod.ts",
+  "now": {
+    "secs_since_epoch": 1640980453,
+    "nanos_since_epoch": 242763000
+  }
+}

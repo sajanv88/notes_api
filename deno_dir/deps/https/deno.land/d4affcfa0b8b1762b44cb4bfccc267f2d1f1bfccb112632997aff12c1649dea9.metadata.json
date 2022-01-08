@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "server": "deploy/europe-west4-b",
+    "x-amz-version-id": "null",
+    "access-control-allow-origin": "*",
+    "content-type": "application/typescript; charset=utf-8",
+    "date": "Fri, 31 Dec 2021 19:54:14 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-request-id": "2CD0F4XGSPBW6P67",
+    "etag": "\"0fd5474114ab2ed95f67ca700ee77161\"",
+    "x-amz-id-2": "DjMrNMWq/wjAx7A+oXEgbibL/sp/DgpaoVp/UNqRvcIaMXTV8zkapdH2vLLfDXW61L0dEcJ7Sxs=",
+    "content-length": "72",
+    "last-modified": "Sat, 29 Aug 2020 19:29:30 GMT"
+  },
+  "url": "https://deno.land/x/bcrypt@v0.2.4/deps.ts",
+  "now": {
+    "secs_since_epoch": 1640980453,
+    "nanos_since_epoch": 921400000
+  }
+}

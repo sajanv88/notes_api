@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "date": "Fri, 31 Dec 2021 19:54:12 GMT",
+    "content-length": "0",
+    "server": "deploy/europe-west4-b",
+    "location": "/x/djwt@v2.4/mod.ts",
+    "x-deno-warning": "Implicitly using latest version (v2.4) for https://deno.land/x/djwt/mod.ts"
+  },
+  "url": "https://deno.land/x/djwt/mod.ts",
+  "now": {
+    "secs_since_epoch": 1640980453,
+    "nanos_since_epoch": 244726000
+  }
+}

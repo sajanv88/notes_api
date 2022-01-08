@@ -1,0 +1,2 @@
+export { encode } from "https://deno.land/std@0.61.0/encoding/utf8.ts";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZGVwcy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbImRlcHMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxFQUFFLE1BQU0sRUFBRSxNQUFNLCtDQUErQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgZW5jb2RlIH0gZnJvbSBcImh0dHBzOi8vZGVuby5sYW5kL3N0ZEAwLjYxLjAvZW5jb2RpbmcvdXRmOC50c1wiO1xuIl19

@@ -1,0 +1,19 @@
+export class BSONError extends Error {
+    constructor(message) {
+        super(message);
+        Object.setPrototypeOf(this, BSONError.prototype);
+    }
+    get name() {
+        return "BSONError";
+    }
+}
+export class BSONTypeError extends TypeError {
+    constructor(message) {
+        super(message);
+        Object.setPrototypeOf(this, BSONTypeError.prototype);
+    }
+    get name() {
+        return "BSONTypeError";
+    }
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZXJyb3IuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJlcnJvci50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxNQUFNLE9BQU8sU0FBVSxTQUFRLEtBQUs7SUFDbEMsWUFBWSxPQUFnQjtRQUMxQixLQUFLLENBQUMsT0FBTyxDQUFDLENBQUM7UUFDZixNQUFNLENBQUMsY0FBYyxDQUFDLElBQUksRUFBRSxTQUFTLENBQUMsU0FBUyxDQUFDLENBQUM7SUFDbkQsQ0FBQztJQUVELElBQUksSUFBSTtRQUNOLE9BQU8sV0FBVyxDQUFDO0lBQ3JCLENBQUM7Q0FDRjtBQUdELE1BQU0sT0FBTyxhQUFjLFNBQVEsU0FBUztJQUMxQyxZQUFZLE9BQWdCO1FBQzFCLEtBQUssQ0FBQyxPQUFPLENBQUMsQ0FBQztRQUNmLE1BQU0sQ0FBQyxjQUFjLENBQUMsSUFBSSxFQUFFLGFBQWEsQ0FBQyxTQUFTLENBQUMsQ0FBQztJQUN2RCxDQUFDO0lBRUQsSUFBSSxJQUFJO1FBQ04sT0FBTyxlQUFlLENBQUM7SUFDekIsQ0FBQztDQUNGIiwic291cmNlc0NvbnRlbnQiOlsiLyoqIEBwdWJsaWMgKi9cbmV4cG9ydCBjbGFzcyBCU09ORXJyb3IgZXh0ZW5kcyBFcnJvciB7XG4gIGNvbnN0cnVjdG9yKG1lc3NhZ2U/OiBzdHJpbmcpIHtcbiAgICBzdXBlcihtZXNzYWdlKTtcbiAgICBPYmplY3Quc2V0UHJvdG90eXBlT2YodGhpcywgQlNPTkVycm9yLnByb3RvdHlwZSk7XG4gIH1cblxuICBnZXQgbmFtZSgpOiBzdHJpbmcge1xuICAgIHJldHVybiBcIkJTT05FcnJvclwiO1xuICB9XG59XG5cbi8qKiBAcHVibGljICovXG5leHBvcnQgY2xhc3MgQlNPTlR5cGVFcnJvciBleHRlbmRzIFR5cGVFcnJvciB7XG4gIGNvbnN0cnVjdG9yKG1lc3NhZ2U/OiBzdHJpbmcpIHtcbiAgICBzdXBlcihtZXNzYWdlKTtcbiAgICBPYmplY3Quc2V0UHJvdG90eXBlT2YodGhpcywgQlNPTlR5cGVFcnJvci5wcm90b3R5cGUpO1xuICB9XG5cbiAgZ2V0IG5hbWUoKTogc3RyaW5nIHtcbiAgICByZXR1cm4gXCJCU09OVHlwZUVycm9yXCI7XG4gIH1cbn1cbiJdfQ==
