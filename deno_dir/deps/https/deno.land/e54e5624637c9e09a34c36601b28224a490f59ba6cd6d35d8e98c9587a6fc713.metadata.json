@@ -1,20 +1,20 @@
 {
   "headers": {
-    "content-type": "application/typescript; charset=utf-8",
-    "date": "Fri, 31 Dec 2021 19:54:15 GMT",
-    "server": "deploy/europe-west4-b",
     "content-length": "3232",
     "x-amz-version-id": "PVISSj7ISOyGuxphZlsk6mewKz4JPwLF",
+    "date": "Sat, 08 Jan 2022 15:18:53 GMT",
     "access-control-allow-origin": "*",
-    "cache-control": "public, max-age=31536000, immutable",
-    "last-modified": "Sat, 18 Dec 2021 12:33:11 GMT",
-    "x-amz-id-2": "sznrdXhcvDYMODPbNnOCCj3lmpMpX3GuIKUIBxLwQUkDPsNr7yFS424CGhXCL4MZrrttugkQPPE=",
+    "x-amz-request-id": "BYFE46NSPXNNP010",
     "etag": "\"3c71489a3efa542c765db95c52ceded7\"",
-    "x-amz-request-id": "1Z2WY1D32DSNS8YV"
+    "cache-control": "public, max-age=31536000, immutable",
+    "server": "deploy/europe-west4-b",
+    "content-type": "application/typescript; charset=utf-8",
+    "x-amz-id-2": "7kasDcQGsqVDYir0G1XA5heXLKtB99DS61FkETWsDqlzGsfJJ0A7eauwokab3bahSMjgBNtTaBs=",
+    "last-modified": "Sat, 18 Dec 2021 12:33:11 GMT"
   },
   "url": "https://deno.land/x/mongo@v0.29.0/src/utils/saslprep/sparse_bitfield.ts",
   "now": {
-    "secs_since_epoch": 1640980454,
-    "nanos_since_epoch": 596322000
+    "secs_since_epoch": 1641655132,
+    "nanos_since_epoch": 770952000
   }
 }
