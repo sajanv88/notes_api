@@ -1,14 +1,14 @@
 {
   "headers": {
-    "server": "deploy/europe-west4-b",
+    "date": "Wed, 19 Jan 2022 16:41:57 GMT",
     "location": "/x/oak@v10.1.0/mod.ts",
+    "x-deno-warning": "Implicitly using latest version (v10.1.0) for https://deno.land/x/oak/mod.ts",
     "content-length": "0",
-    "date": "Sat, 08 Jan 2022 15:18:51 GMT",
-    "x-deno-warning": "Implicitly using latest version (v10.1.0) for https://deno.land/x/oak/mod.ts"
+    "server": "deploy/europe-west4-b"
   },
   "url": "https://deno.land/x/oak/mod.ts",
   "now": {
-    "secs_since_epoch": 1641655131,
-    "nanos_since_epoch": 510707000
+    "secs_since_epoch": 1642610517,
+    "nanos_since_epoch": 258613000
   }
 }

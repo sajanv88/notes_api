@@ -1,20 +1,20 @@
 {
   "headers": {
-    "access-control-allow-origin": "*",
-    "date": "Sat, 08 Jan 2022 15:18:53 GMT",
-    "x-amz-request-id": "BYFEYACHGGA9TGE4",
-    "cache-control": "public, max-age=31536000, immutable",
-    "content-type": "application/typescript; charset=utf-8",
-    "content-length": "151",
+    "x-amz-id-2": "rLB96o6XMYr+5M1ycKlt86gRUv5mMUC0M/OZA8rMj8Fxfu7Os4tj6bh5F4p1N4HGM9d5xb42eD8=",
     "server": "deploy/europe-west4-b",
-    "x-amz-id-2": "t7RA4fw+g60bAijH05pmvzI5M8xsXevuED5k+3XG2GnDeJMApwJkcKokoZgMvRQ+MobD67ghSeE=",
     "x-amz-version-id": "B_3u5dG3Yusa1LGs5DjqAOG0FtPQRtEU",
-    "last-modified": "Sat, 18 Dec 2021 12:33:11 GMT",
-    "etag": "\"b6638548b1afbfc0c2b67e39b171ce8d\""
+    "content-length": "151",
+    "x-amz-request-id": "97M5BJKRG9S3Y2YC",
+    "etag": "\"b6638548b1afbfc0c2b67e39b171ce8d\"",
+    "access-control-allow-origin": "*",
+    "content-type": "application/typescript; charset=utf-8",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Wed, 19 Jan 2022 16:41:58 GMT",
+    "last-modified": "Sat, 18 Dec 2021 12:33:11 GMT"
   },
   "url": "https://deno.land/x/mongo@v0.29.0/src/protocol/mod.ts",
   "now": {
-    "secs_since_epoch": 1641655132,
-    "nanos_since_epoch": 71232000
+    "secs_since_epoch": 1642610517,
+    "nanos_since_epoch": 899638000
   }
 }

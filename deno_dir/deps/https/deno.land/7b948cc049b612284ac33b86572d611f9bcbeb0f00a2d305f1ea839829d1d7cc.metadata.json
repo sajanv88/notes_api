@@ -1,20 +1,20 @@
 {
   "headers": {
+    "x-amz-id-2": "0ztXuQS/fm4SlwuPmpGFcoYz5GF7UmauPUovFOEtd+V+AgLy9UFErd0nNWkLNYDTJRcrrxn0Uvs=",
+    "x-amz-request-id": "97M8ANNGPV911MVX",
+    "etag": "\"0f2d349b5d4a6a57c7c7762f8f50a296\"",
+    "date": "Wed, 19 Jan 2022 16:41:58 GMT",
     "last-modified": "Sat, 18 Dec 2021 12:33:11 GMT",
     "access-control-allow-origin": "*",
     "server": "deploy/europe-west4-b",
-    "etag": "\"0f2d349b5d4a6a57c7c7762f8f50a296\"",
-    "x-amz-request-id": "DXTVWG4XBKSTNV4G",
-    "cache-control": "public, max-age=31536000, immutable",
-    "content-length": "8937",
-    "date": "Sat, 08 Jan 2022 15:18:52 GMT",
-    "x-amz-id-2": "ZGAxUH0wPMpNQKxPvGGqLbb36n7yQO7M0pjj63aQPXEdq8VLHWD+xnkEoGzRnkka4Iv3RUpfFv0=",
     "x-amz-version-id": "zCMKp6hrmdWwi9hdyxfOCYjJcNzie3pH",
-    "content-type": "application/typescript; charset=utf-8"
+    "content-type": "application/typescript; charset=utf-8",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "8937"
   },
   "url": "https://deno.land/x/mongo@v0.29.0/src/collection/collection.ts",
   "now": {
-    "secs_since_epoch": 1641655132,
-    "nanos_since_epoch": 44569000
+    "secs_since_epoch": 1642610517,
+    "nanos_since_epoch": 750239000
   }
 }

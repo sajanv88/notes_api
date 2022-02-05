@@ -1,14 +1,14 @@
 {
   "headers": {
-    "date": "Sat, 08 Jan 2022 15:18:51 GMT",
-    "server": "deploy/europe-west4-b",
+    "location": "/std@0.121.0/log/mod.ts",
+    "date": "Wed, 19 Jan 2022 16:41:57 GMT",
     "content-length": "0",
-    "location": "/std@0.120.0/log/mod.ts",
-    "x-deno-warning": "Implicitly using latest version (0.120.0) for https://deno.land/std/log/mod.ts"
+    "x-deno-warning": "Implicitly using latest version (0.121.0) for https://deno.land/std/log/mod.ts",
+    "server": "deploy/europe-west4-b"
   },
   "url": "https://deno.land/std/log/mod.ts",
   "now": {
-    "secs_since_epoch": 1641655131,
-    "nanos_since_epoch": 516527000
+    "secs_since_epoch": 1642610517,
+    "nanos_since_epoch": 260377000
   }
 }
