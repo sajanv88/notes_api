@@ -1,0 +1,11 @@
+export class MaxKey {
+    [Symbol.for("Deno.customInspect")]() {
+        return "new MaxKey()";
+    }
+}
+export class MinKey {
+    [Symbol.for("Deno.customInspect")]() {
+        return "new MinKey()";
+    }
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoia2V5LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsia2V5LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUlBLE1BQU0sT0FBTyxNQUFNO0lBQ2pCLENBQUMsTUFBTSxDQUFDLEdBQUcsQ0FBQyxvQkFBb0IsQ0FBQyxDQUFDO1FBQ2hDLE9BQU8sY0FBYyxDQUFDO0lBQ3hCLENBQUM7Q0FDRjtBQU1ELE1BQU0sT0FBTyxNQUFNO0lBQ2pCLENBQUMsTUFBTSxDQUFDLEdBQUcsQ0FBQyxvQkFBb0IsQ0FBQyxDQUFDO1FBQ2hDLE9BQU8sY0FBYyxDQUFDO0lBQ3hCLENBQUM7Q0FDRiIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogQSBjbGFzcyByZXByZXNlbnRhdGlvbiBvZiB0aGUgQlNPTiBNYXhLZXkgdHlwZS5cbiAqIEBwdWJsaWNcbiAqL1xuZXhwb3J0IGNsYXNzIE1heEtleSB7XG4gIFtTeW1ib2wuZm9yKFwiRGVuby5jdXN0b21JbnNwZWN0XCIpXSgpOiBzdHJpbmcge1xuICAgIHJldHVybiBcIm5ldyBNYXhLZXkoKVwiO1xuICB9XG59XG5cbi8qKlxuICogQSBjbGFzcyByZXByZXNlbnRhdGlvbiBvZiB0aGUgQlNPTiBNaW5LZXkgdHlwZS5cbiAqIEBwdWJsaWNcbiAqL1xuZXhwb3J0IGNsYXNzIE1pbktleSB7XG4gIFtTeW1ib2wuZm9yKFwiRGVuby5jdXN0b21JbnNwZWN0XCIpXSgpOiBzdHJpbmcge1xuICAgIHJldHVybiBcIm5ldyBNaW5LZXkoKVwiO1xuICB9XG59XG4iXX0=

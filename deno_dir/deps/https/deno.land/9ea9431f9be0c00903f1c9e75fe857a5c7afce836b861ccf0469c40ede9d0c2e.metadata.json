@@ -1,14 +1,15 @@
 {
   "headers": {
-    "server": "deploy/europe-west4-b",
+    "access-control-allow-origin": "*",
+    "location": "/x/djwt@v2.4/mod.ts",
     "x-deno-warning": "Implicitly using latest version (v2.4) for https://deno.land/x/djwt/mod.ts",
-    "content-length": "0",
-    "date": "Wed, 19 Jan 2022 16:41:57 GMT",
-    "location": "/x/djwt@v2.4/mod.ts"
+    "date": "Sat, 05 Feb 2022 08:07:45 GMT",
+    "server": "deploy/europe-west4-b",
+    "content-length": "0"
   },
   "url": "https://deno.land/x/djwt/mod.ts",
   "now": {
-    "secs_since_epoch": 1642610517,
-    "nanos_since_epoch": 276407000
+    "secs_since_epoch": 1644048465,
+    "nanos_since_epoch": 338401000
   }
 }

@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "last-modified": "Sat, 29 Jan 2022 10:44:21 GMT",
+    "content-length": "4882",
+    "etag": "\"eda8d909452e81291755ca80fd05e93e\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "application/typescript; charset=utf-8",
+    "date": "Sat, 05 Feb 2022 08:07:47 GMT",
+    "server": "deploy/europe-west4-b",
+    "x-amz-id-2": "l6iIgfQkUQc/K76vlG1JlEA4zhlkH1/Ia0KXJlWmGTpficuTFx6h4U6ZoOSJ/jfTGNN1s0Jfgro=",
+    "x-amz-version-id": "6.RCLeuHiVWPOYcoIL8MQWjHKGWsBtfz",
+    "x-amz-request-id": "NC36Q98YSXJNH5AZ"
+  },
+  "url": "https://deno.land/x/oak@v10.2.0/buf_reader.ts",
+  "now": {
+    "secs_since_epoch": 1644048466,
+    "nanos_since_epoch": 490162000
+  }
+}

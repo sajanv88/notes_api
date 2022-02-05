@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "etag": "\"6b3238e09f08685a83b219e829f31c35\"",
+    "date": "Sat, 05 Feb 2022 08:07:47 GMT",
+    "x-amz-request-id": "NC30QRQ9JZ1ZGZ9M",
+    "server": "deploy/europe-west4-b",
+    "access-control-allow-origin": "*",
+    "content-type": "application/javascript",
+    "x-amz-version-id": "t9jdPKu8ebLyuEHBtN7E0nm07nWtf9P1",
+    "content-length": "11836",
+    "cache-control": "public, max-age=31536000, immutable",
+    "last-modified": "Thu, 20 Jan 2022 13:30:08 GMT",
+    "x-amz-id-2": "d661YxlOVoMOQmFY05p7DWQa45oJbaeUZHph5FcM7NaHsvC1NEqPpKxNEv4jPCSf/AKuqGGRvJA="
+  },
+  "url": "https://deno.land/std@0.122.0/_wasm_crypto/crypto.js",
+  "now": {
+    "secs_since_epoch": 1644048466,
+    "nanos_since_epoch": 796410000
+  }
+}

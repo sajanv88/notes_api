@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-amz-version-id": "4vh.dGTNVMlSVsIwUMpOaYuEvoss_tBp",
+    "access-control-allow-origin": "*",
+    "server": "deploy/europe-west4-b",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-id-2": "ApN/mNsQD71Fzc/EVL9fCV6dIH0RZ2SqMfwjYx3ap4uOowFHLuSzp5AXIn+qV5ODkhNgMSt3XwU=",
+    "x-amz-request-id": "NC37J2RXNZPV2ZW5",
+    "content-type": "application/typescript; charset=utf-8",
+    "etag": "\"e3abd8349cc55b0a1d09575c68c9a263\"",
+    "content-length": "3264",
+    "date": "Sat, 05 Feb 2022 08:07:47 GMT",
+    "last-modified": "Fri, 21 Jan 2022 12:11:15 GMT"
+  },
+  "url": "https://deno.land/x/mongo@v0.29.1/src/protocol/protocol.ts",
+  "now": {
+    "secs_since_epoch": 1644048466,
+    "nanos_since_epoch": 621003000
+  }
+}

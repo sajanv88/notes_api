@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-amz-id-2": "mds4KHb287wyBEQqycglgjolYL+UdYubdnG7FA98i/Y8OjXbS/+Ayn8pO4dvAzkKFn9yS6Cbf1Q=",
+    "server": "deploy/europe-west4-b",
+    "date": "Sat, 05 Feb 2022 08:07:46 GMT",
+    "content-length": "35923",
+    "x-amz-version-id": "HyxYY92jyXx0f4ArgaRwlTKpkQ04Co0B",
+    "last-modified": "Sat, 29 Jan 2022 10:44:21 GMT",
+    "content-type": "application/typescript; charset=utf-8",
+    "etag": "\"081c9051203f28d8ce92f6fec58136f7\"",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-request-id": "H7ZS8MJQ17KBWWEV"
+  },
+  "url": "https://deno.land/x/oak@v10.2.0/router.ts",
+  "now": {
+    "secs_since_epoch": 1644048466,
+    "nanos_since_epoch": 353824000
+  }
+}

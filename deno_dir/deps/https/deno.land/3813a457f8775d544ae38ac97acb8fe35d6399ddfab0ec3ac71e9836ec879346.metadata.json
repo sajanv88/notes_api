@@ -1,14 +1,15 @@
 {
   "headers": {
-    "x-deno-warning": "Implicitly using latest version (v0.29.0) for https://deno.land/x/mongo/mod.ts",
-    "location": "/x/mongo@v0.29.0/mod.ts",
-    "content-length": "0",
+    "x-deno-warning": "Implicitly using latest version (v0.29.1) for https://deno.land/x/mongo/mod.ts",
     "server": "deploy/europe-west4-b",
-    "date": "Wed, 19 Jan 2022 16:41:57 GMT"
+    "content-length": "0",
+    "location": "/x/mongo@v0.29.1/mod.ts",
+    "date": "Sat, 05 Feb 2022 08:07:45 GMT",
+    "access-control-allow-origin": "*"
   },
   "url": "https://deno.land/x/mongo/mod.ts",
   "now": {
-    "secs_since_epoch": 1642610517,
-    "nanos_since_epoch": 255247000
+    "secs_since_epoch": 1644048465,
+    "nanos_since_epoch": 323003000
   }
 }
